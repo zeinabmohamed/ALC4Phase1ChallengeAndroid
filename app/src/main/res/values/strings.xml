@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ALC4Phase1ChallengeAndroid</string>
     <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="alc_4_phase_1">ALC 4 Phas 1</string>
+    <string name="welcome_to_alc_4">Welcome to ALC 4.0</string>
 </resources>
