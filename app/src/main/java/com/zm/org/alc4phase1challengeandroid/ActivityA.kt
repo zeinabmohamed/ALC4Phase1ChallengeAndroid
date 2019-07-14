@@ -18,5 +18,9 @@ class ActivityA : AppCompatActivity() {
 
             startActivity(Intent(this@ActivityA, ActivityB::class.java))
         }
+        navToActivityC_Button.setOnClickListener {
+
+            startActivity(Intent(this@ActivityA, ActivityC::class.java))
+        }
     }
 }

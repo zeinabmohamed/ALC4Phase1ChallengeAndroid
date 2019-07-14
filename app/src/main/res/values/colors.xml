@@ -8,5 +8,7 @@
     <color name="textColorPrimary">#000000</color>
     <color name="colorOnSurface">#000000</color>
     <color name="colorOnPrimary">#000000</color>
+    <color name="colorBg">#FAFAFA</color>
+    <color name="colorSeparator">#D4D4D4</color>
 
 </resources>

@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">ALC4Phase1ChallengeAndroid</string>
+    <string name="app_name">ALC4Android</string>
     <string name="about_alc">About ALC</string>
     <string name="my_profile">My Profile</string>
     <string name="alc_4_phase_1">ALC 4 Phas 1</string>
     <string name="welcome_to_alc_4">Welcome to ALC 4.0</string>
+    <string name="my_photo">My Photo</string>
+    <string name="zeinab_mohamed_abdelmawla">Zeinab Mohamed Abdelmawla</string>
+    <string name="my_track">Track : Android</string>
+    <string name="my_country">Country : Egypt</string>
+    <string name="my_email">Email : zeinabmohamed22@gmail.com</string>
+    <string name="my_phone_number">Phone number : +201060437575</string>
+    <string name="my_slack_username">Slack Username : @zeinababdelmawla</string>
 </resources>
